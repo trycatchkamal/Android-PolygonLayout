@@ -1,6 +1,8 @@
 # Android-Polygon-Layout
 Custom layout that arranges child views in a polygon like figure. PolygonLayout takes care of arranging the child views in the vertices based  on the number of child views added to the PolygonLayout.
 
+![giphy](https://cloud.githubusercontent.com/assets/6428994/16331814/ec3ef44e-39f2-11e6-97b0-861847715944.gif)
+
 # Demo screen
 <img  src="https://cloud.githubusercontent.com/assets/6428994/16318359/27918822-398f-11e6-8f49-23b451334a6b.png" widht="500" height="500"  />
 
@@ -15,4 +17,3 @@ Custom layout that arranges child views in a polygon like figure. PolygonLayout 
 
 # With 2 child views
 <img src="https://cloud.githubusercontent.com/assets/6428994/16318357/2791565e-398f-11e6-980e-c7b66fe71975.png"  widht="500" height="500"  />
-
